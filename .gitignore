@@ -1,0 +1,7 @@
+# djangodev/.gitignore
+
+djangodev
+*.pyc
+__pycache__
+staticfiles
+db.sqlite3
